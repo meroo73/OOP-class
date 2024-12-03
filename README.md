@@ -1,4 +1,4 @@
-# **Energy Management System made in OOP class Using C++ **
+# Energy Management System made in OOP class Using C++ 
 
 This repository contains the source code for a progressive energy management system developed as part of university lab tasks. The project simulates energy consumption and costs for households, evolving incrementally across six versions (`A1` to `A6`).
 
