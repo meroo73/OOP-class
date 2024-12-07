@@ -1,10 +1,5 @@
-/***********************************************************************
-Matr.-Nr:                     3140507
-Nachname/Surname:             Alaghbari
-Vorname/Given name:           Ameer Adin
-Uni-Email:                    ameer.alaghbari@stud.uni-due.de
-Studiengang/Course of studis: B.Sc ISE CE (Software)
-***********************************************************************/
+
+
 
 #include <iostream>
 #include <string>
